@@ -1,2 +1,5 @@
 hab.de
 matomo.hab.de
+www.hab.de
+www.matomo.hab.de
+(\.|^)hab$
